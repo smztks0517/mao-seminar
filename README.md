@@ -3,11 +3,14 @@
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
 
+<<<<<<< HEAD
 # メンバー
 真央教授
 エルマス
 わかば
 
+=======
+>>>>>>> parent of 6542f62... README.mdにメンバー一覧を追加
 # ディレクトリ構成
 ```
 seminar/
